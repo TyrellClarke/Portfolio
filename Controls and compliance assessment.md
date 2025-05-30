@@ -108,6 +108,9 @@ Are Botium Toys currently adhearing to the following compliance best practices?
 
 During this audit, many security controls were found to be ineffective, unenforced, or entirely absent. As a result, Botium Toys currently has a weak security posture, leaving it vulnerable to both internal and external threats. With the company experiencing rapid growth, it may soon attract increased attention and become a potential target for cyber threats. In light of these findings, I recommend implementing the following controls to strengthen the organization’s overall security posture:
 * Least privilege
-  * Implementing least privilege ensures that users have access only to what is essential for their roles, thereby limiting the potential impact of insider threats or external compromise
-*  Password policies & Password management systems
-  * Implementing strong password policies enhances operational efficiency while significantly reducing the risk posed by internal misuse and external attacks
+* Password policies
+* Password management systems
+* IDS
+* Encryption
+* 
+ 
